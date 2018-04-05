@@ -1,0 +1,422 @@
+[
+  {
+    "name": "jordan aldujaili",
+    "eventservice": {
+      "host": "mc02",
+      "port": 2250
+    },
+    "frontendservice": {
+      "host": "mc01",
+      "port": 2200
+    }
+  },
+  {
+    "name": "Nikhil Barapatre",
+    "eventservice": {
+      "host": "mc02",
+      "port": 2299
+    },
+    "frontendservice": {
+      "host": "mc01",
+      "port": 2251
+    }
+  },
+  {
+    "name": "Brian Bushree",
+    "eventservice": {
+      "host": "mc02",
+      "port": 2350
+    },
+    "frontendservice": {
+      "host": "mc01",
+      "port": 2300
+    }
+  },
+  {
+    "name": "Hassan Chadad",
+    "eventservice": {
+      "host": "mc03",
+      "port": 2399
+    },
+    "frontendservice": {
+      "host": "mc02",
+      "port": 2351
+    }
+  },
+  {
+    "name": "Sheng Chen",
+    "userservice": {
+      "host": "mc03",
+      "port": 2424
+    },
+    "eventservice": {
+      "host": "mc02",
+      "port": 2450
+    },
+    "frontendservice": {
+      "host": "mc01",
+      "port": 2400
+    }
+  },
+  {
+    "name": "Xin Cheng",
+    "eventservice": {
+      "host": "mc03",
+      "port": 2499
+    },
+    "frontendservice": {
+      "host": "mc01",
+      "port": 2451
+    }
+  },
+  {
+    "name": "Milankumar Chovatiya",
+    "userservice": {
+      "host": "mc03",
+      "port": 2525
+    },
+    "eventservice": {
+      "host": "mc02",
+      "port": 2550
+    },
+    "frontendservice": {
+      "host": "mc01",
+      "port": 2500
+    }
+  },
+  {
+    "name": "Cristina Chu",
+    "eventservice": {
+      "host": "mc02",
+      "port": 2599
+    },
+    "frontendservice": {
+      "host": "mc01",
+      "port": 2551
+    }
+  },
+  {
+    "name": "Marilyn Cruz",
+    "eventservice": {
+      "host": "mc03",
+      "port": 2650
+    },
+    "frontendservice": {
+      "host": "mc01",
+      "port": 2600
+    }
+  },
+  {
+    "name": "Matthew Domingo",
+    "eventservice": {
+      "host": "mc05",
+      "port": 3250
+    },
+    "frontendservice": {
+      "host": "mc04",
+      "port": 3200
+    }
+  },
+  {
+    "name": "Pragya Garg",
+    "eventservice": {
+      "host": "mc05",
+      "port": 3299
+    },
+    "frontendservice": {
+      "host": "mc04",
+      "port": 3251
+    }
+  },
+  {
+    "name": "Charles(Yunjie Ge)	",
+    "eventservice": {
+      "host": "mc05",
+      "port": 3350
+    },
+    "frontendservice": {
+      "host": "mc04",
+      "port": 3300
+    }
+  },
+  {
+    "name": "Kieran",
+    "eventservice": {
+      "host": "mc06",
+      "port": 3399
+    },
+    "frontendservice": {
+      "host": "mc04",
+      "port": 3351
+    }
+  },
+  {
+    "name": "Chirag",
+    "eventservice": {
+      "host": "mc06",
+      "port": 3450
+    },
+    "frontendservice": {
+      "host": "mc05",
+      "port": 3400
+    }
+  },
+  {
+    "name": "Martino Kuan",
+    "eventservice": {
+      "host": "mc06",
+      "port": 3499
+    },
+    "frontendservice": {
+      "host": "mc05",
+      "port": 3451
+    }
+  },
+  {
+    "name": "Zheng Li",
+    "eventservice": {
+      "host": "mc06",
+      "port": 3550
+    },
+    "frontendservice": {
+      "host": "mc04",
+      "port": 3500
+    }
+  },
+  {
+    "name": "Lovedeep Singh",
+    "eventservice": {
+      "host": "mc06",
+      "port": 3599
+    },
+    "frontendservice": {
+      "host": "mc04",
+      "port": 3551
+    }
+  },
+  {
+    "name": "Jovani",
+    "eventservice": {
+      "host": "mc06",
+      "port": 3650
+    },
+    "frontendservice": {
+      "host": "mc05",
+      "port": 3600
+    }
+  },
+  {
+    "name": "Dominic Mortlock",
+    "eventservice": {
+      "host": "mc06",
+      "port": 3699
+    },
+    "frontendservice": {
+      "host": "mc05",
+      "port": 3651
+    }
+  },
+  {
+    "name": "Diana Perez",
+    "eventservice": {
+      "host": "mc08",
+      "port": 4299
+    },
+    "frontendservice": {
+      "host": "mc07",
+      "port": 4251
+    }
+  },
+  {
+    "name": "Sreedeepraj Ratnasabhapathy",
+    "eventservice": {
+      "host": "mc08",
+      "port": 4350
+    },
+    "frontendservice": {
+      "host": "mc07",
+      "port": 4300
+    }
+  },
+  {
+    "name": "Kundry Rivero",
+    "eventservice": {
+      "host": "mc08",
+      "port": 4399
+    },
+    "frontendservice": {
+      "host": "mc07",
+      "port": 4351
+    }
+  },
+  {
+    "name": "Gudbrand Schistad",
+    "userservice": {
+      "host": "mc08",
+      "port": 4444
+    },
+    "eventservice": {
+      "host": "mc09",
+      "port": 4450
+    },
+    "frontendservice": {
+      "host": "mc07",
+      "port": 4400
+    }
+  },
+  {
+    "name": "Omar Sharif",
+    "userservice": {
+      "host": "mc08",
+      "port": 4444
+    },
+    "eventservice": {
+      "host": "mc09",
+      "port": 4450
+    },
+    "frontendservice": {
+      "host": "mc07",
+      "port": 4400
+    }
+  },
+  {
+    "name": "Jinyue Song",
+    "eventservice": {
+      "host": "mc09",
+      "port": 4550
+    },
+    "frontendservice": {
+      "host": "mc07",
+      "port": 4500
+    }
+  },
+  {
+    "name": "Chien-Yu Sung",
+    "eventservice": {
+      "host": "mc09",
+      "port": 4599
+    },
+    "frontendservice": {
+      "host": "mc08",
+      "port": 4551
+    }
+  },
+  {
+    "name": "Prateek Tiwari",
+    "userservice": {
+      "host": "mc03",
+      "port": 2525
+    },
+    "eventservice": {
+      "host": "mc02",
+      "port": 2550
+    },
+    "frontendservice": {
+      "host": "mc01",
+      "port": 2500
+    }
+  },
+  {
+    "name": "Katherine Tucto",
+    "eventservice": {
+      "host": "mc11",
+      "port": 5250
+    },
+    "frontendservice": {
+      "host": "mc10",
+      "port": 5200
+    }
+  },
+  {
+    "name": "Nate Wilson",
+    "eventservice": {
+      "host": "mc11",
+      "port": 5299
+    },
+    "frontendservice": {
+      "host": "mc10",
+      "port": 5251
+    }
+  },
+  {
+    "name": "Albert Yang",
+    "eventservice": {
+      "host": "mc11",
+      "port": 5350
+    },
+    "frontendservice": {
+      "host": "mc10",
+      "port": 5300
+    }
+  },
+  {
+    "name": "yuxiao",
+    "eventservice": {
+      "host": "mc12",
+      "port": 5399
+    },
+    "frontendservice": {
+      "host": "mc10",
+      "port": 5351
+    }
+  },
+  {
+    "name": "kai yu",
+    "userservice": {
+      "host": "mc03",
+      "port": 2424
+    },
+    "eventservice": {
+      "host": "mc02",
+      "port": 2450
+    },
+    "frontendservice": {
+      "host": "mc01",
+      "port": 2400
+    }
+  },
+  {
+    "name": "Ryan Yu",
+    "eventservice": {
+      "host": "mc12",
+      "port": 5499
+    },
+    "frontendservice": {
+      "host": "mc10",
+      "port": 5451
+    }
+  },
+  {
+    "name": "Timothy yung",
+    "eventservice": {
+      "host": "mc12",
+      "port": 5550
+    },
+    "frontendservice": {
+      "host": "mc11",
+      "port": 5500
+    }
+  },
+  {
+    "name": "Peilin Zhong",
+    "eventservice": {
+      "host": "mc12",
+      "port": 5599
+    },
+    "frontendservice": {
+      "host": "mc11",
+      "port": 5551
+    }
+  },
+  {
+    "name": "Yifan Zhou",
+    "eventservice": {
+      "host": "mc12",
+      "port": 5650
+    },
+    "frontendservice": {
+      "host": "mc11",
+      "port": 5600
+    }
+  }
+]
